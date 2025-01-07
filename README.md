@@ -19,12 +19,12 @@
 
 ### 💻 Studying now
 <div style="text-align: center;">
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px" style="margin-right: 10px;"/>
+<!--   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px" style="margin-right: 10px;"/> -->
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring.png" alt="spring" height="50px" style="margin-right: 10px;"/>
   <!-- img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/docker.png" alt="docker" height="50px" style="margin-right: 10px;"/ -->
   <!-- img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/github-actions.png" alt="github actions" height="50px" style="margin-right: 10px;"/ -->
   <!-- img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-security.png" alt="spring security" height="50px" style="margin-right: 10px;"/ -->
-  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-data-jpa.png" alt="spring data jpa" height="50px" style="margin-right: 10px;"/>
+<!--   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-data-jpa.png" alt="spring data jpa" height="50px" style="margin-right: 10px;"/> -->
 </div>
 
 <br />
