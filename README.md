@@ -19,8 +19,12 @@
 
 ### 💻 Studying now
 <div style="text-align: center;">
+  <img src="https://img.shields.io/badge/Python-3776AB?
+          style=for-the-badge
+          &logo=Spring
+          &logoColor=#6DB33F"/>
 <!--   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px" style="margin-right: 10px;"/> -->
-  <img align="center" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring.png" alt="spring" height="50px" style="margin-right: 10px;"/>
+<!--   <img align="center" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring.png" alt="spring" height="50px" style="margin-right: 10px;"/> -->
   <!-- img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/docker.png" alt="docker" height="50px" style="margin-right: 10px;"/ -->
   <!-- img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/github-actions.png" alt="github actions" height="50px" style="margin-right: 10px;"/ -->
   <!-- img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-security.png" alt="spring security" height="50px" style="margin-right: 10px;"/ -->
