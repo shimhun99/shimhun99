@@ -28,9 +28,6 @@
 <!--   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-data-jpa.png" alt="spring data jpa" height="50px" style="margin-right: 10px;"/> -->
 </div>
 
-<br />
-
-
 -----
 
 ### 📊 Stats
