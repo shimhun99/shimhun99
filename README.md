@@ -19,7 +19,7 @@
 
 ### 💻 Studying now
 <div style="text-align: center;">
-  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=61DAFB" />
 <!--   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px" style="margin-right: 10px;"/> -->
 <!--   <img align="center" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring.png" alt="spring" height="50px" style="margin-right: 10px;"/> -->
   <!-- img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/docker.png" alt="docker" height="50px" style="margin-right: 10px;"/ -->
