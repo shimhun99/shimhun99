@@ -48,6 +48,6 @@
 
 ---
 
-### 📊 Stats & Algorithm
+### 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=shimhun99&show_icons=true&theme=transparent" height="150" />
 <img src="https://leetcard.jacoblin.cool/shimhun99?theme=wtf&font=Work%20Sans" height="150" />
